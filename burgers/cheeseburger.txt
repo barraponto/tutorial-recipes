@@ -2,7 +2,7 @@ Cheeseburger
 ============
 
 * Hamburger bun
-* Cheese
+* SoyCheese
 * Hamburger
 
 Instructions

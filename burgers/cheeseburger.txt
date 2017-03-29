@@ -1,0 +1,12 @@
+Cheeseburger
+============
+
+* Hamburger bun
+* Cheese
+* Hamburger
+
+Instructions
+------------
+
+Fry the burger, throw some cheese on it while it's hot (so it melts),
+put it all in the bread. And that's it.

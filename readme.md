@@ -5,3 +5,4 @@ Hamburgers
 ----------
 
 * Cheeseburger
+* SoyCheeseburger
